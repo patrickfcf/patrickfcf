@@ -16,7 +16,6 @@ I work in Professional Services at Talkdesk, where I specialize in integrating h
 
 - GitHub: [patrickfcf](https://github.com/patrickfcf) - Check out my repositories for code samples and projects.
 - ORCID: [Patrick Fonseca](https://orcid.org/0000-0001-6146-4202) - Explore my publications and research work.
-- Medium: [patrickfcf](https://patrickfcf.medium.com/) - Read my articles on various topics related to life and technology.
 - ResearchGate: [Patrick Fonseca](https://www.researchgate.net/profile/Patrick_Fonseca2) - Connect with me and join the network of scientists and researchers.
 
 Top Skills:
