@@ -1,12 +1,12 @@
 ### Hi there, I'm Patrick Fonseca! 👋
 
-I work in Professional Services at Talkdesk, where I specialize in integrating hardware, software, and services to create seamless and efficient solutions. Long-term investing is one of my passions, and I strongly believe in the power of technology and its potential for growth.
+I work in Professional Services, specializing in integrating hardware, software, and services to create seamless and efficient solutions. Long-term investing is one of my passions, and I strongly believe in technology's power and its growth potential.
 
 🔭 I’m currently working on various projects, leveraging my skills in Artificial Intelligence (AI) and software development to build innovative solutions.
 
-🌱 I’m always learning and exploring new technologies to stay ahead of the curve. Currently, I'm particularly interested in SwiftUI, a modern framework for building user interfaces across Apple platforms.
+🌱 I’m always learning and exploring new technologies to stay ahead of the curve. I'm particularly interested in SwiftUI, a modern framework for building user interfaces across Apple platforms.
 
-💬 Ask me about AI, software development, investments, or anything related to technology. I'm always excited to discuss these topics and share my insights.
+💬 Ask me about AI, software development, investments, or technology-related. I'm always excited to discuss these topics and share my insights.
 
 😄 Pronouns: He/Him
 
